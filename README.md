@@ -43,7 +43,26 @@ The example questionsandanswer.txt file is shown below:
 
 ```test Imput
 
-#### Q1. Wt? - [ ] A - [ ] B - [ ] C - [x] D #### Q2. Wh A? - [x] A - [ ] B - [ ] C - [ ] D 
+#### Q1. What built-in Python data type is best suited for implementing a queue?
+
+- [ ] dictionary
+- [ ] set
+- [ ] None. You can only build a queue from scratch.
+- [x] list
+
+#### Q2. What is the correct syntax for instantiating a new object of the type Game?
+
+- [ ] `my_game = class.Game()`
+- [ ] `my_game = class(Game)`
+- [x] `my_game = Game()`
+- [ ] `my_game = Game.create()`
+
+#### Q3. What does the built-in `map()` function do?
+
+- [ ] It creates a path from multiple values in an iterable to a single value.
+- [x] It applies a function to each item in an iterable and returns the value of that function.
+- [ ] It converts a complex value type into simpler value types.
+- [ ] It creates a mapping between two different elements of different iterables.
 ```
 Note that you can create your own questionsandanswer.txt file with your own questions and options.
 
