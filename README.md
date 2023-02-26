@@ -1,7 +1,7 @@
 # QuizApp_pythonQT
 C:\\Users\\Public\\Documents\\questionsandanswer.txt
 
-# GitHub Documentation for the Python QR Code
+# GitHub Documentation for the PythonQT Code
 
 This Python code reads a file named questionsandanswer.txt that contains multiple choice questions and options with one correct answer. The user interface is created using the PyQt5 module.
 
